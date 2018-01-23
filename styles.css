@@ -26,11 +26,10 @@ html, body, p {
   width: 50%;
   height: 200px;
   box-sizing: border-box;
-  /* padding: 15px; */
 }
 
 .element-content {
-  padding: 15px;
+  padding: 0px 15px;
   box-sizing: border-box;
 }
 
